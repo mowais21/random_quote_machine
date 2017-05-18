@@ -1,0 +1,19 @@
+body {
+    margin-top: 150px;
+    background-color: black
+}
+
+#tweet {
+    background: #d3d3d3;
+    color: black
+}
+
+#new-quote {
+    background: #d3d3d3;
+    color: black
+}
+
+.jumbotron {
+    background-color: #aeaeae;
+    align-items: center
+}
